@@ -10,6 +10,15 @@
 *.o
 *.obj
 
+Content/InfinityBladeAdversaries
+Content/InfinityBladeEffects
+Content/InfinityBladeWeapons
+Content/InfinityBladeWarriors
+Content/InfinityBladeGrassLands
+Content/InfinityBladeIceLands
+Content/InfinityBladeFireLands
+Content/StarterContent
+
 # Precompiled Headers
 *.gch
 *.pch
